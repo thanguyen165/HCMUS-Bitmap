@@ -1,0 +1,1 @@
+./bin/cutbmp img/mickey.bmp -h 3 -w 4
